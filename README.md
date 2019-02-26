@@ -1,6 +1,6 @@
 # Emergency Vehicle Lighting
 A new approach to vehicle lighting in FiveM
-#### Discord: https://discord.gg/NGaWZGB
+#### Discord: https://discord.gg/KHjzEmd
 #### Fivem thread: https://forum.fivem.net/t/r-d-emergency-vehicle-lights-the-next-generation-of-els/179185
 ## Script Specific
 
